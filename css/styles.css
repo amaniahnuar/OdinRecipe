@@ -1,0 +1,36 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: darkslategrey;
+    text-align: center;
+}
+
+.food-image {
+    display: flex;
+    justify-content: center;
+}
+
+img.food {
+    height: 200px;
+    width: auto;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: brown;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
